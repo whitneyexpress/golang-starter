@@ -23,6 +23,4 @@ func main() {
 	for i:=0; i < timesToPrint; i++{
 		fmt.Println("careful-kangaroo")
 	}
-
-	
 }
